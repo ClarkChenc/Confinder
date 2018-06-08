@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>E:\KLSTND\CC\Research\TestCase\_StringBuffer\StringBuffer\StringBuffer\bin\Debug\StringBuffer.exe</StartArguments>
+    <RemoteDebugEnabled>true</RemoteDebugEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>E:\KLSTND\CC\Research\TestCase\_Lottery\Lottery\bin\Debug\Lottery.exe</StartArguments>
+  </PropertyGroup>
+</Project>
